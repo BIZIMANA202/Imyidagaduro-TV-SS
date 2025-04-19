@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="rw">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Imyidagaduro TV</title>
+</head>
+<body style="text-align: center; font-family: Arial, sans-serif; background-color: #f5f5f5; padding: 50px;">
+  <h1 style="color: #d10000;">Murakaza neza kuri Imyidagaduro TV</h1>
+  <p style="font-size: 18px;">Reba filime zose ku buntu, aho uri hose!</p>
+
+  <a href="https://www.youtube.com/@BizimanaOmar-m9z" target="_blank">
+    <button style="padding: 12px 24px; font-size: 18px; background-color: red; color: white; border: none; border-radius: 5px;">
+      Kanda hano usubscribe kuri YouTube
+    </button>
+  </a>
+
+  <br><br>
+  <p>Filime zizajya ziboneka kuri uru rubuga. Komeza kudukurikira!</p>
+</body>
+</html>
